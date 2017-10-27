@@ -1,0 +1,7 @@
+C:\Work\Training\StringTraining\StringTraining\bin\Debug\StringTraining.exe.config
+C:\Work\Training\StringTraining\StringTraining\bin\Debug\StringTraining.exe
+C:\Work\Training\StringTraining\StringTraining\bin\Debug\StringTraining.pdb
+C:\Work\Training\StringTraining\StringTraining\obj\Debug\StringTraining.csprojResolveAssemblyReference.cache
+C:\Work\Training\StringTraining\StringTraining\obj\Debug\StringTraining.csproj.CoreCompileInputs.cache
+C:\Work\Training\StringTraining\StringTraining\obj\Debug\StringTraining.exe
+C:\Work\Training\StringTraining\StringTraining\obj\Debug\StringTraining.pdb

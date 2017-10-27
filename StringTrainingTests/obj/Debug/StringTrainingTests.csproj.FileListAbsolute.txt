@@ -1,0 +1,16 @@
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\StringTrainingTests.dll
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\StringTrainingTests.pdb
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\StringTraining.exe
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\StringTraining.pdb
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\StringTraining.exe.config
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Work\Training\StringTraining\StringTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Work\Training\StringTraining\StringTrainingTests\obj\Debug\StringTrainingTests.csprojResolveAssemblyReference.cache
+C:\Work\Training\StringTraining\StringTrainingTests\obj\Debug\StringTrainingTests.csproj.CoreCompileInputs.cache
+C:\Work\Training\StringTraining\StringTrainingTests\obj\Debug\StringTrainingTests.dll
+C:\Work\Training\StringTraining\StringTrainingTests\obj\Debug\StringTrainingTests.pdb
